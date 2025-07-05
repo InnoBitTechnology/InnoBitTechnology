@@ -1,4 +1,4 @@
-### Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> I'm [Manoj Sharma](https://devmansh.github.io/)!
+### Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> We're [InnoBit Technology](https://InnoBit.github.io/)!
 
 
 [![Website](https://img.shields.io/website?label=devmansh.github.io&style=for-the-badge&url=https%3A%2F%2Fdevmansh.github.io)](https://devmansh.github.io)
@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## 👨‍💻 About Me
+## 👨‍💻 About Us
 ## SWE @ DXC, HP Legacy 
 
 - 👨‍💻 ***#SelfTaught*** Developer.
