@@ -6,10 +6,10 @@
 
 
 ## 👨‍💻 About Us
-## SWE @ DXC, HP Legacy 
+## We're INNOBIT TECHNOLOGY
 
-- 👨‍💻 ***#SelfTaught*** Developer.
-- 💾 Technical Skills: `.NET 8`, `ASP.NET`, `Python`, `Flask`, `Django`
+- 👨‍💻 Team of experienced developers.
+- 💾 Technical Support: `Web Development`, `App Development`, `Python`, `Flask`, `Django`
 - 💾 Past Experience: `C++`, `Mainframe (DXC Trained)`, `Android Development`
 - 💬 Ask me about: **Python, C# and Project Management**
 - ⚡ Fun Fact: I love finding creative and efficient ways to solve problems
